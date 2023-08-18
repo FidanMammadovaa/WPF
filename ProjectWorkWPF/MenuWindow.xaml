@@ -1,0 +1,65 @@
+﻿<Window x:Class="ProjectWorkONWPF.MenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectWorkONWPF"
+        mc:Ignorable="d"
+        Title="MenuWindow" Height="450" Width="1200"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Style="{StaticResource DarkWindowStyle}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Menu DockPanel.Dock="Top" FontSize="20" Grid.Row="0">
+            <MenuItem Header="Client">
+                <MenuItem Header="Add" Name="addClientButton" Click="addClientButton_Click"/>
+                <MenuItem Header="List" Name="listClientButton" Click="listClientButton_Click"/>
+            </MenuItem>
+            <MenuItem Header="Order">
+                <MenuItem Header="Add" Name="addOrderButton" Click="addOrderButton_Click"/>
+                <MenuItem Header="List" Name="listOrderButton" Click="listOrderButton_Click"/>
+            </MenuItem>
+            <MenuItem Header="Product">
+                <MenuItem Header="Add" Name="addProductButton" Click="addProductButton_Click"/>
+                <MenuItem Header="List" Name="listProductButton" Click="listProductButton_Click"/>
+            </MenuItem>
+            <MenuItem Header="Log Out" Name="logOut" Click="logOut_Click"/>
+        </Menu>
+
+        <ListView Grid.Row="1" FontSize="20" x:Name="clientView">
+            <ListView.View >
+                <GridView>
+                    <GridViewColumn Header="Name" Width="170" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Surname" Width="200" DisplayMemberBinding="{Binding Surname}"/>
+                    <GridViewColumn Header="Email" Width="220" DisplayMemberBinding="{Binding Email}"/>
+                    <GridViewColumn Header="Phone" Width="200" DisplayMemberBinding="{Binding PhoneNumber}"/>
+                    <GridViewColumn Header="Address" DisplayMemberBinding="{Binding Address}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView Grid.Row="1" FontSize="20" Visibility="Hidden" x:Name="orderView">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="200" DisplayMemberBinding="{Binding Client}"/>
+                    <GridViewColumn Header="Product" Width="200" DisplayMemberBinding="{Binding Product}"/>
+                    <GridViewColumn Header="Quantity" Width="200" DisplayMemberBinding="{Binding Quantity}"/>
+                    <GridViewColumn Header="ArriveTime" Width="200" DisplayMemberBinding="{Binding ArriveTime}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <ListView Grid.Row="1" FontSize="20" Visibility="Hidden" x:Name="productView">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="150" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Price" Width="150" DisplayMemberBinding="{Binding Price}"/>
+                    <GridViewColumn Header="Quantity" Width="180" DisplayMemberBinding="{Binding Quantity}"/>
+                    <GridViewColumn Header="Description" Width="180" DisplayMemberBinding="{Binding Description}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

@@ -1,0 +1,136 @@
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\ProjectWorkWPF.exe
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\ProjectWorkWPF.deps.json
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\ProjectWorkWPF.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\ProjectWorkWPF.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\ProjectWorkWPF.pdb
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\App.baml
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.g.resources
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\refint\ProjectWorkWPF.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.pdb
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ref\ProjectWorkWPF.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\LoginWindow.g.cs
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\LoginWindow.baml
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Users\Lenovo\source\repos\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\ProjectWorkWPF.exe
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\ProjectWorkWPF.deps.json
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\ProjectWorkWPF.runtimeconfig.json
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\ProjectWorkWPF.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\ProjectWorkWPF.pdb
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\LoginWindow.g.cs
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF_MarkupCompile.cache
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF_MarkupCompile.lref
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\App.baml
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\LoginWindow.baml
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.g.resources
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.AssemblyInfo.cs
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.csproj.CopyComplete
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\refint\ProjectWorkWPF.dll
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.pdb
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ProjectWorkWPF.genruntimeconfig.cache
+C:\Users\Lenovo\Homework\Project work for wpf\ProjectWorkWPF\ProjectWorkWPF\obj\Debug\net7.0-windows\ref\ProjectWorkWPF.dll
